@@ -19,7 +19,7 @@ ThreadPool だよ
     <dependency>
       <groupId>net.simplyrin.threadpool</groupId>
       <artifactId>ThreadPool</artifactId>
-      <version>1.2-SNAPSHOT</version>
+      <version>1.0</version>
     </dependency>
   </dependencies>
 ```
